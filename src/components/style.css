@@ -1,0 +1,14 @@
+td,tr{
+    border: 1px solid;
+    width: 200px;
+}
+table{
+    border-collapse: collapse;
+}
+button{
+    cursor: pointer;
+}
+.search{
+    margin-top: 50px;
+    display: flex;
+}
